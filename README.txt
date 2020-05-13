@@ -1,7 +1,7 @@
-Programming Assignment4: 
+Objective: 
 
 
-The pp4code.py file contains broadly 2 parts, one for each task(Task 1 Gibbs Sampling and Classification). In totality the code picks required text and CSV file from the directory of the code file. The path isn’t hard coded, but the files need to be placed in code file directory.
+The code.py file contains broadly 2 parts, one for each task(Task 1 Gibbs Sampling and Classification). In totality the code picks required text and CSV file from the directory of the code file. The path isnâ€™t hard coded, but the files need to be placed in code file directory.
 It supports the Python Version 3
 
 PART 0: Import and Storage of CSV files
